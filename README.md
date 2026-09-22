@@ -113,6 +113,17 @@ The app handles SDK initialization failure, missing SDK components, empty or inv
 
 **Showing error handling in a demo:** The **Demo: Simulate Error** button clears the ads and displays a simulated failure. It makes the fallback and retry flow easy to demonstrate without changing network conditions. It does not simulate an actual SDK network request failure.
 
+## Demo Video
+
+[Watch the demo video](./OsmosAds-Demo.mov)
+
+The recording demonstrates:
+- Ad loading
+- Banner rendering
+- 50% visibility impression tracking
+- Click tracking
+- Error and retry handling
+
 ## How to run the demo
 
 1. Launch the app and show the initial screen.
